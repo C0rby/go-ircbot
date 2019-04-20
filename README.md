@@ -1,2 +1,2 @@
-# go-ircbot
-An attempt to a minimal ircbot implemented in Golang.
+# ircclient
+An attempt to a minimal irc client implemented in Golang.
